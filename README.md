@@ -1,4 +1,3 @@
 <h1>Learn-Hacking-Tool</h1>
-<hr>
-<h1>Supporty Only Turkish</h1>
-<h1>DDOS , IPLOGGER , SQL , BYPASS , BRUTE FORCE</h1>
+<h3>Supporty Only Turkish</h3>
+<h3>DDOS , IPLOGGER , SQL , BYPASS , BRUTE FORCE</h3>
