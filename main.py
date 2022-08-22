@@ -3,6 +3,7 @@ import time
 import os
 
 os.system("color c")
+os.system("title Learn Hacking Tool")
 lorex = input("[1] - DDOS\n[2] - IPLOGGER\n[3] - SQL\n[4] - BYPASS\n[5] - BRUTEFORCE\n[6] - HAKKINDA\n\n>> ")
 
 if lorex == '1':
